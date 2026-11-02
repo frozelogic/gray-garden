@@ -1,4 +1,4 @@
-[![Baixar The Gray Garden](https://img.shields.io/badge/Baixar-The%20Gray%20Garden-white?style=flat&logo=github)](https://github.com/frozelogic/gray-garden/releases/download/v1.08/Gray-Garden_pt-BR-v1.08.zip)\
+[![Baixar The Gray Garden](https://img.shields.io/badge/Baixar-The%20Gray%20Garden-white?style=flat&logo=github)](https://github.com/frozelogic/gray-garden/releases/download/v1.08/Gray-Garden_pt-BR_v1.08.zip)\
 [![Baixar The Gray Garden -Soundtrack-](https://img.shields.io/badge/Baixar-The%20Gray%20Garden%20(Soundtrack)-white?style=flat&logo=github)](https://github.com/frozelogic/gray-garden/releases/download/v1.08/Gray-Garden_Soundtrack.zip)
 
 ## SOBRE A TRADUÇÃO
